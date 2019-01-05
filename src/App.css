@@ -1,0 +1,17 @@
+.header {
+    background-color: rgb(235, 230, 210);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding: 10px;
+}
+
+.Recipe {
+    text-align: left;
+    background-color: rgb(240, 240, 240);
+}
+
+.Ingredient {
+    text-align: left;
+    background-color: rgb(240, 240, 240);
+}
